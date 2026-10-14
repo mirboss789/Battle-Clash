@@ -9,6 +9,17 @@
   "background_color": "#101010",
   "theme_color": "#ffcc00",
   "icons": [
+{
+  "name": "BattleClash",
+  "short_name": "BattleClash",
+  "description": "BattleClash Community Tournaments",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101010",
+  "theme_color": "#ffcc00"
+}
+
     {
       "src": "icon-192.png",
       "sizes": "192x192",
